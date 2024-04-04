@@ -1,0 +1,43 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin: 0 80px;
+}
+.container > div {
+  text-align: center;
+  height: 500px;
+  cursor: pointer;
+  border: 1px solid #d1d8e7;
+}
+.imageProfile {
+  width: 100%;
+}
+.name {
+  font-size: 18px;
+  color: #2c338c;
+  height: 50px;
+  font-weight: 700;
+  padding-top: 15px;
+}
+.specialist {
+  font-size: 15px;
+  color: #333e5c;
+  height: 50px;
+  font-weight: 500;
+  padding-top: 15px;
+}
+.button {
+  width: 80%;
+  height: 50px;
+  background-color: #0a338b;
+  color: white;
+  font-size: 17px;
+  font-weight: 700;
+  border: 1px solid #0a338b;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: white;
+  color: #0a338b;
+}

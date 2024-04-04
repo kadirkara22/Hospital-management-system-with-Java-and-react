@@ -1,0 +1,25 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  margin: 0 80px;
+}
+.container > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: 1px solid #d1d8e7;
+  text-align: center;
+  height: 200px;
+}
+.imageProfile {
+  width: 50%;
+}
+.name {
+  font-size: 15px;
+  color: #2c338c;
+  font-weight: 500;
+  padding-top: 10px;
+}

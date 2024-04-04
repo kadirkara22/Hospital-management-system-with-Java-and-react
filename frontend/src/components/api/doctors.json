@@ -1,0 +1,752 @@
+[
+  {
+    "id": "1",
+    "firstName": "Mustafa",
+    "lastName": "Derdiyok",
+    "email": "mustafa.derdiyok@gmail.com",
+    "phone": "02125555555",
+    "specialist": "Çocuk Doktoru",
+    "title": "PROF.DR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "education": {
+      "Lisans": "Gata Tıp Fakültesi",
+      "Uzmanlık": "Gata Haydarpaşa Eğitim ve Araştırma Hastanesi",
+      "Doçentlik": "Gata Haydarpaşa Eğitim ve Araştırma Hastanesi",
+      "Profesörlük": "Gata Haydarpaşa Eğitim ve Araştırma Hastanesi"
+    },
+    "memberShip": {
+      "Türk Nöroşirürji Derneği Üyeliği": true,
+      "Pediatrik Nöroşirürji Eğitim Öğretim Grubu": true,
+      "Avrupa Pediatrik Nöroşirürji Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Neurological Disorders in Children",
+        "authors": ["Mustafa Derdiyok", "John Smith"],
+        "journal": "Pediatric Neurology",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "Advances in Pediatric Neurosurgery",
+        "authors": ["Mustafa Derdiyok", "Emily Johnson"],
+        "journal": "Journal of Pediatric Surgery",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Pediatric Brain Tumors: Diagnosis and Treatment",
+        "authors": ["Mustafa Derdiyok", "Emma Thompson"],
+        "journal": "Child's Nervous System",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Beyin Tümörü Cerrahisi": true,
+        "Orbita Tümörü": true,
+        "Omurilik Tümörü": true,
+        "Çocuk Beyin Cerrahisi": true,
+        "Bel Fıtığı": true,
+        "Boyun Fıtığı": true
+      }
+    }
+  },
+  {
+    "id": "2",
+    "firstName": "Ayşe",
+    "lastName": "Yılmaz",
+    "email": "ayse.yilmaz@gmail.com",
+    "phone": "02124444444",
+    "title": "PROF.DR",
+    "specialist": "Dahiliye Doktoru",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "education": {
+      "Lisans": "Ankara Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+      "Doçentlik": "Ankara Numune Eğitim ve Araştırma Hastanesi",
+      "Profesörlük": "Ankara Numune Eğitim ve Araştırma Hastanesi"
+    },
+    "memberShip": {
+      "Türk Dahiliye Derneği Üyeliği": true,
+      "Ankara Dahiliye Kulübü Üyeliği": true,
+      "Avrupa Dahiliye Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Internal Medicine",
+        "authors": ["Ayşe Yılmaz", "Ahmet Demir"],
+        "journal": "Journal of Internal Medicine",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights in Cardiology",
+        "authors": ["Ayşe Yılmaz", "Fatma Kaya"],
+        "journal": "Cardiology Today",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Endocrinology Trends",
+        "authors": ["Ayşe Yılmaz", "Mehmet Can"],
+        "journal": "Endocrine Reviews",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Diyabet": true,
+        "Kardiyoloji": true,
+        "Gastroenteroloji": true,
+        "Hematoloji": true,
+        "Nefroloji": true,
+        "Romatoloji": true
+      }
+    }
+  },
+  {
+    "id": "3",
+    "firstName": "Mehmet",
+    "lastName": "Şahin",
+    "email": "mehmet.sahin@gmail.com",
+    "phone": "02126666666",
+    "specialist": "Göğüs Hastalıkları Doktoru",
+    "title": "PROF.DR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "education": {
+      "Lisans": "Hacettepe Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "Ankara Gazi Mustafa Kemal Eğitim ve Araştırma Hastanesi",
+      "Doçentlik": "Ankara Gazi Mustafa Kemal Eğitim ve Araştırma Hastanesi",
+      "Profesörlük": "Ankara Gazi Mustafa Kemal Eğitim ve Araştırma Hastanesi"
+    },
+    "memberShip": {
+      "Türk Göğüs Hastalıkları Derneği Üyeliği": true,
+      "Ankara Göğüs Hastalıkları Kulübü Üyeliği": true,
+      "Avrupa Göğüs Hastalıkları Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Lung Cancer Research",
+        "authors": ["Mehmet Şahin", "Ayşe Kaya"],
+        "journal": "Lung Cancer Journal",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "Advances in Asthma Treatment",
+        "authors": ["Mehmet Şahin", "Mustafa Yılmaz"],
+        "journal": "Journal of Asthma",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Chronic Obstructive Pulmonary Disease Studies",
+        "authors": ["Mehmet Şahin", "Fatma Demir"],
+        "journal": "COPD Journal",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Akciğer Kanseri": true,
+        "Astım": true,
+        "KOAH": true,
+        "Bronşit": true,
+        "Pnömoni": true,
+        "Tüberküloz": true
+      }
+    }
+  },
+  {
+    "id": "4",
+    "firstName": "Fatma",
+    "lastName": "Kara",
+    "email": "fatma.kara@gmail.com",
+    "phone": "02127777777",
+    "specialist": "Kadın Hastalıkları ve Doğum Uzmanı",
+    "title": "PROF.DR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "education": {
+      "Lisans": "İstanbul Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "İstanbul Kadın Doğum ve Çocuk Hastalıkları Hastanesi",
+      "Doçentlik": "İstanbul Kadın Doğum ve Çocuk Hastalıkları Hastanesi",
+      "Profesörlük": "İstanbul Kadın Doğum ve Çocuk Hastalıkları Hastanesi"
+    },
+    "memberShip": {
+      "Türk Jinekoloji ve Obstetrik Derneği Üyeliği": true,
+      "İstanbul Kadın Hastalıkları ve Doğum Derneği Üyeliği": true,
+      "Avrupa Jinekoloji ve Obstetrik Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Obstetrics",
+        "authors": ["Fatma Kara", "Mehmet Yılmaz"],
+        "journal": "Journal of Obstetrics",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "Gynecological Cancer Research",
+        "authors": ["Fatma Kara", "Ayşe Demir"],
+        "journal": "Gynecologic Oncology",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Infertility Treatments",
+        "authors": ["Fatma Kara", "Mustafa Kaya"],
+        "journal": "Fertility and Sterility",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Obstetrik": true,
+        "Jinekoloji": true,
+        "Kadın Üreme Sistemi Kanserleri": true,
+        "Doğum Sonrası Bakım": true,
+        "Üreme Sağlığı": true,
+        "Adet Düzensizlikleri": true
+      }
+    }
+  },
+  {
+    "id": "5",
+    "firstName": "Ahmet",
+    "lastName": "Yıldız",
+    "email": "ahmet.yildiz@gmail.com",
+    "phone": "02128888888",
+    "specialist": "Kardiyoloji Doktoru",
+    "title": "PROF.DR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Ahmet Yıldız, kardiyoloji uzmanıdır ve kalp hastalıkları konusunda geniş bir deneyime sahiptir. Kalp sağlığına büyük önem verir ve hastalarına en iyi tedaviyi sunmayı hedefler.",
+    "education": {
+      "Lisans": "İstanbul Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "İstanbul Kardiyoloji Enstitüsü",
+      "Doçentlik": "İstanbul Kardiyoloji Enstitüsü",
+      "Profesörlük": "İstanbul Kardiyoloji Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Kardiyoloji Derneği Üyeliği": true,
+      "İstanbul Kardiyoloji Kulübü Üyeliği": true,
+      "Avrupa Kardiyoloji Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Cardiology",
+        "authors": ["Ahmet Yıldız", "Fatma Demir"],
+        "journal": "Cardiology Today",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Heart Failure",
+        "authors": ["Ahmet Yıldız", "Ayşe Kaya"],
+        "journal": "Journal of Heart Failure",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Emerging Therapies in Arrhythmia Management",
+        "authors": ["Ahmet Yıldız", "Mustafa Kara"],
+        "journal": "Arrhythmia & Electrophysiology Review",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Koroner Arter Hastalığı": true,
+        "Kalp Ritim Bozuklukları": true,
+        "Kalp Yetmezliği": true,
+        "Kalp Kapak Hastalıkları": true,
+        "Hipertansiyon": true,
+        "Kardiyovasküler Risk Değerlendirmesi": true
+      }
+    }
+  },
+  {
+    "id": "6",
+    "firstName": "Zeynep",
+    "lastName": "Koç",
+    "email": "zeynep.koc@gmail.com",
+    "phone": "02129999999",
+    "specialist": "Dermatoloji Doktoru",
+    "title": "DOÇ.DR.",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Zeynep Koç, dermatoloji alanında uzmanlaşmış bir doktordur. Cilt sağlığına büyük önem verir ve hastalarının dermatolojik sorunlarını en iyi şekilde çözmeyi amaçlar.",
+    "education": {
+      "Lisans": "Hacettepe Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "Ankara Deri ve Zührevi Hastalıklar Enstitüsü",
+      "Doçentlik": "Ankara Deri ve Zührevi Hastalıklar Enstitüsü",
+      "Profesörlük": "Ankara Deri ve Zührevi Hastalıklar Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Dermatoloji Derneği Üyeliği": true,
+      "Ankara Dermatoloji Kulübü Üyeliği": true,
+      "Avrupa Dermatoloji Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Skin Cancer Epidemiology",
+        "authors": ["Zeynep Koç", "Ahmet Yılmaz"],
+        "journal": "Journal of Dermatology",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Trends in Acne Treatment",
+        "authors": ["Zeynep Koç", "Ayşe Demir"],
+        "journal": "Dermatology Today",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Advances in Psoriasis Management",
+        "authors": ["Zeynep Koç", "Mustafa Kara"],
+        "journal": "Psoriasis Review",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Akne": true,
+        "Sedef Hastalığı": true,
+        "Dermatit": true,
+        "Cilt Kanseri": true,
+        "Cilt Yaşlanması": true,
+        "Lazer Tedavileri": true
+      }
+    }
+  },
+  {
+    "id": "7",
+    "firstName": "Ali",
+    "lastName": "Yılmaz",
+    "email": "ali.yilmaz@gmail.com",
+    "phone": "02126666666",
+    "specialist": "Nöroloji Doktoru",
+    "title": "DOÇ.DR.",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Ali Yılmaz, nöroloji uzmanıdır ve sinir sistemi hastalıkları alanında uzmanlaşmıştır. Hastalarının sağlığına önem verir ve en son tedavi yöntemlerini kullanarak hastalarına yardımcı olur.",
+    "education": {
+      "Lisans": "Gazi Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "Ankara Nöroloji Enstitüsü",
+      "Doçentlik": "Ankara Nöroloji Enstitüsü",
+      "Profesörlük": "Ankara Nöroloji Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Nöroloji Derneği Üyeliği": true,
+      "Ankara Nöroloji Kulübü Üyeliği": true,
+      "Avrupa Nöroloji Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Advances in Stroke Treatment",
+        "authors": ["Ali Yılmaz", "Ayşe Kaya"],
+        "journal": "Stroke Journal",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Parkinson's Disease",
+        "authors": ["Ali Yılmaz", "Fatma Demir"],
+        "journal": "Parkinson's Disease Review",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Epilepsy Management Strategies",
+        "authors": ["Ali Yılmaz", "Mustafa Kara"],
+        "journal": "Epilepsy Today",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "İnme": true,
+        "Parkinson Hastalığı": true,
+        "Epilepsi": true,
+        "Baş Ağrıları": true,
+        "Multipl Skleroz": true,
+        "Nöromusküler Hastalıklar": true
+      }
+    }
+  },
+  {
+    "id": "8",
+    "firstName": "Fatma",
+    "lastName": "Demir",
+    "email": "fatma.demir@gmail.com",
+    "phone": "02127777777",
+    "specialist": "Göz Doktoru",
+    "title": "DR.ÖĞR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Fatma Demir, göz hastalıkları konusunda uzmanlaşmış bir doktordur. Göz sağlığını önemseyen ve hastalarına en iyi görme bakımını sağlamak için çaba gösteren bir profesyoneldir.",
+    "education": {
+      "Lisans": "İstanbul Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "İstanbul Göz Hastalıkları Enstitüsü",
+      "Doçentlik": "İstanbul Göz Hastalıkları Enstitüsü",
+      "Profesörlük": "İstanbul Göz Hastalıkları Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Göz Doktorları Derneği Üyeliği": true,
+      "İstanbul Göz Doktorları Kulübü Üyeliği": true,
+      "Avrupa Göz Doktorları Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Ophthalmology",
+        "authors": ["Fatma Demir", "Mehmet Yılmaz"],
+        "journal": "Ophthalmology Today",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Cataract Surgery",
+        "authors": ["Fatma Demir", "Ayşe Kaya"],
+        "journal": "Cataract Surgery Journal",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Glaucoma Management Strategies",
+        "authors": ["Fatma Demir", "Mustafa Kara"],
+        "journal": "Glaucoma Review",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Katarakt Cerrahisi": true,
+        "Glokom": true,
+        "Retina Hastalıkları": true,
+        "Göz Tansiyonu": true,
+        "Keratokonus": true,
+        "Kuru Göz": true
+      }
+    }
+  },
+  {
+    "id": "9",
+    "firstName": "Ayşe",
+    "lastName": "Kaya",
+    "email": "ayse.kaya@gmail.com",
+    "phone": "02126666666",
+    "specialist": "Üroloji Doktoru",
+    "title": "DR.ÖĞR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Ayşe Kaya, üroloji uzmanıdır ve idrar yolu hastalıkları ile ilgili geniş bir bilgi birikimine sahiptir. Hastalarının sağlığına önem verir ve en son teknolojik yenilikleri kullanarak tedavi yöntemlerini belirler.",
+    "education": {
+      "Lisans": "Hacettepe Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "Ankara Üroloji Enstitüsü",
+      "Doçentlik": "Ankara Üroloji Enstitüsü",
+      "Profesörlük": "Ankara Üroloji Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Üroloji Derneği Üyeliği": true,
+      "Ankara Üroloji Kulübü Üyeliği": true,
+      "Avrupa Üroloji Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Advances in Prostate Cancer Treatment",
+        "authors": ["Ayşe Kaya", "Ahmet Yıldız"],
+        "journal": "Prostate Cancer Journal",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Urinary Incontinence",
+        "authors": ["Ayşe Kaya", "Fatma Demir"],
+        "journal": "Urinary Incontinence Review",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Emerging Therapies in Kidney Stones",
+        "authors": ["Ayşe Kaya", "Mustafa Kara"],
+        "journal": "Kidney Stones Today",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Prostat Kanseri": true,
+        "İdrar Kaçırma": true,
+        "Böbrek Taşları": true,
+        "Üretral Darlık": true,
+        "İdrar Yolu Enfeksiyonları": true,
+        "İdrar Retansiyonu": true
+      }
+    }
+  },
+  {
+    "id": "10",
+    "firstName": "Mehmet",
+    "lastName": "Kurt",
+    "email": "mehmet.kurt@gmail.com",
+    "phone": "02125555555",
+    "specialist": "Ortopedi ve Travmatoloji Doktoru",
+    "title": "DR.ÖĞR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Mehmet Kurt, ortopedi ve travmatoloji alanında uzmanlaşmış bir doktordur. Hareket sistemine ait rahatsızlıkları tedavi etmek için geniş bir bilgi birikimine ve deneyime sahiptir.",
+    "education": {
+      "Lisans": "Ankara Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "Ankara Ortopedi ve Travmatoloji Hastanesi",
+      "Doçentlik": "Ankara Ortopedi ve Travmatoloji Hastanesi",
+      "Profesörlük": "Ankara Ortopedi ve Travmatoloji Hastanesi"
+    },
+    "memberShip": {
+      "Türk Ortopedi ve Travmatoloji Derneği Üyeliği": true,
+      "Ankara Ortopedi ve Travmatoloji Kulübü Üyeliği": true,
+      "Avrupa Ortopedi ve Travmatoloji Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Joint Replacement Surgery",
+        "authors": ["Mehmet Kurt", "Fatma Demir"],
+        "journal": "Joint Replacement Review",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Fracture Healing",
+        "authors": ["Mehmet Kurt", "Ayşe Kaya"],
+        "journal": "Fracture Healing Today",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Emerging Therapies in Sports Injuries",
+        "authors": ["Mehmet Kurt", "Mustafa Kara"],
+        "journal": "Sports Injuries Journal",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Eklem Cerrahisi": true,
+        "Kırık Tedavisi": true,
+        "Spinal Cerrahi": true,
+        "Sporda Yaralanmalar": true,
+        "Artroskopi": true,
+        "Ortopedik Travmalar": true
+      }
+    }
+  },
+  {
+    "id": "11",
+    "firstName": "Sema",
+    "lastName": "Aydın",
+    "email": "sema.aydin@gmail.com",
+    "phone": "02123333333",
+    "specialist": "İç Hastalıkları Doktoru",
+    "title": "DR.ÖĞR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Sema Aydın, iç hastalıkları alanında uzmanlaşmış bir doktordur. Genel sağlık sorunlarına yönelik tedavi ve danışmanlık hizmetleri sunar.",
+    "education": {
+      "Lisans": "Dokuz Eylül Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "İzmir İç Hastalıkları Enstitüsü",
+      "Doçentlik": "İzmir İç Hastalıkları Enstitüsü",
+      "Profesörlük": "İzmir İç Hastalıkları Enstitüsü"
+    },
+    "memberShip": {
+      "Türk İç Hastalıkları Derneği Üyeliği": true,
+      "İzmir İç Hastalıkları Kulübü Üyeliği": true,
+      "Avrupa İç Hastalıkları Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Diabetes Management",
+        "authors": ["Sema Aydın", "Ahmet Yıldız"],
+        "journal": "Diabetes Review",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Hypertension",
+        "authors": ["Sema Aydın", "Fatma Demir"],
+        "journal": "Hypertension Today",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Emerging Therapies in Thyroid Disorders",
+        "authors": ["Sema Aydın", "Mustafa Kara"],
+        "journal": "Thyroid Disorders Journal",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Diyabet": true,
+        "Hipertansiyon": true,
+        "Tiroid Hastalıkları": true,
+        "Kolesterol Yüksekliği": true,
+        "Mide Rahatsızlıkları": true,
+        "Karaciğer Hastalıkları": true
+      }
+    }
+  },
+  {
+    "id": "12",
+    "firstName": "Can",
+    "lastName": "Yılmaz",
+    "email": "can.yilmaz@gmail.com",
+    "phone": "02121111111",
+    "specialist": "Plastik ve Rekonstrüktif Cerrahi Uzmanı",
+    "title": "OP.DR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Can Yılmaz, plastik ve rekonstrüktif cerrahi alanında uzmanlaşmış bir doktordur. Estetik cerrahi ve rekonstrüktif cerrahi alanlarında geniş bir deneyime sahiptir.",
+    "education": {
+      "Lisans": "Ege Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "İzmir Plastik Cerrahi Enstitüsü",
+      "Doçentlik": "İzmir Plastik Cerrahi Enstitüsü",
+      "Profesörlük": "İzmir Plastik Cerrahi Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Plastik ve Rekonstrüktif Cerrahi Derneği Üyeliği": true,
+      "İzmir Plastik Cerrahi Kulübü Üyeliği": true,
+      "Avrupa Plastik ve Rekonstrüktif Cerrahi Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Rhinoplasty",
+        "authors": ["Can Yılmaz", "Fatma Demir"],
+        "journal": "Rhinoplasty Review",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Breast Reconstruction",
+        "authors": ["Can Yılmaz", "Ayşe Kaya"],
+        "journal": "Breast Reconstruction Today",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Emerging Therapies in Burn Treatment",
+        "authors": ["Can Yılmaz", "Mustafa Kara"],
+        "journal": "Burn Treatment Journal",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Rinoplasti": true,
+        "Göğüs Rekonstrüksiyonu": true,
+        "Yanık Tedavisi": true,
+        "Yüz Estetiği": true,
+        "Vücut Şekillendirme": true,
+        "Genital Estetik": true
+      }
+    }
+  },
+  {
+    "id": "13",
+    "firstName": "Melis",
+    "lastName": "Şahin",
+    "email": "melis.sahin@gmail.com",
+    "phone": "02124444444",
+    "specialist": "Kadın Hastalıkları ve Doğum Uzmanı",
+    "title": "OP.DR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Melis Şahin, kadın hastalıkları ve doğum alanında uzmanlaşmış bir doktordur. Kadın sağlığını korumak ve hamilelik sürecini yönetmek konularında geniş bir bilgi birikimine sahiptir.",
+    "education": {
+      "Lisans": "İstanbul Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "İstanbul Kadın Hastalıkları ve Doğum Enstitüsü",
+      "Doçentlik": "İstanbul Kadın Hastalıkları ve Doğum Enstitüsü",
+      "Profesörlük": "İstanbul Kadın Hastalıkları ve Doğum Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Jinekoloji ve Obstetrik Derneği Üyeliği": true,
+      "İstanbul Kadın Hastalıkları ve Doğum Kulübü Üyeliği": true,
+      "Avrupa Jinekoloji ve Obstetrik Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Obstetrics",
+        "authors": ["Melis Şahin", "Ahmet Yıldız"],
+        "journal": "Obstetrics Today",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Prenatal Care",
+        "authors": ["Melis Şahin", "Fatma Demir"],
+        "journal": "Prenatal Care Review",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Emerging Therapies in Infertility Treatment",
+        "authors": ["Melis Şahin", "Mustafa Kara"],
+        "journal": "Infertility Treatment Journal",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Obstetrik": true,
+        "Jinekoloji": true,
+        "Doğum": true,
+        "Kadın Sağlığı": true,
+        "Infertilite": true,
+        "Menopoz": true
+      }
+    }
+  },
+  {
+    "id": "14",
+    "firstName": "Murat",
+    "lastName": "Çelik",
+    "email": "murat.celik@gmail.com",
+    "phone": "02122222222",
+    "specialist": "Kulak Burun Boğaz Uzmanı",
+    "title": "OP.DR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Murat Çelik, kulak burun boğaz alanında uzmanlaşmış bir doktordur. KBB hastalıklarının tanı ve tedavisinde geniş bir deneyime sahiptir ve hastalarına en iyi sağlık hizmetini sunmayı amaçlar.",
+    "education": {
+      "Lisans": "Dokuz Eylül Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "İzmir Kulak Burun Boğaz Enstitüsü",
+      "Doçentlik": "İzmir Kulak Burun Boğaz Enstitüsü",
+      "Profesörlük": "İzmir Kulak Burun Boğaz Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Kulak Burun Boğaz Derneği Üyeliği": true,
+      "İzmir Kulak Burun Boğaz Kulübü Üyeliği": true,
+      "Avrupa Kulak Burun Boğaz Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Rhinology",
+        "authors": ["Murat Çelik", "Fatma Demir"],
+        "journal": "Rhinology Today",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into Otology",
+        "authors": ["Murat Çelik", "Ayşe Kaya"],
+        "journal": "Otology Review",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Emerging Therapies in Laryngology",
+        "authors": ["Murat Çelik", "Mustafa Kara"],
+        "journal": "Laryngology Journal",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Burun Cerrahisi": true,
+        "Kulak Cerrahisi": true,
+        "Boğaz Cerrahisi": true,
+        "Sinüzit": true,
+        "Horlama": true,
+        "İşitme Kaybı": true
+      }
+    }
+  },
+  {
+    "id": "15",
+    "firstName": "Selin",
+    "lastName": "Akgün",
+    "email": "selin.akgun@gmail.com",
+    "phone": "02128888888",
+    "specialist": "Nükleer Tıp Uzmanı",
+    "title": "OP.DR",
+    "imageProfile": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/people19.png",
+    "description": "Selin Akgün, nükleer tıp alanında uzmanlaşmış bir doktordur. Görüntüleme teknolojileri ve nükleer tıp yöntemleri kullanarak hastalıkların teşhis ve tedavisine katkı sağlar.",
+    "education": {
+      "Lisans": "İstanbul Üniversitesi Tıp Fakültesi",
+      "Uzmanlık": "İstanbul Nükleer Tıp Enstitüsü",
+      "Doçentlik": "İstanbul Nükleer Tıp Enstitüsü",
+      "Profesörlük": "İstanbul Nükleer Tıp Enstitüsü"
+    },
+    "memberShip": {
+      "Türk Nükleer Tıp Derneği Üyeliği": true,
+      "İstanbul Nükleer Tıp Kulübü Üyeliği": true,
+      "Avrupa Nükleer Tıp Derneği Üyeliği": true
+    },
+    "scientificPublications": {
+      "publication1": {
+        "title": "Recent Advances in Nuclear Imaging",
+        "authors": ["Selin Akgün", "Ahmet Yıldız"],
+        "journal": "Nuclear Imaging Today",
+        "year": 2023
+      },
+      "publication2": {
+        "title": "New Insights into PET-CT Imaging",
+        "authors": ["Selin Akgün", "Fatma Demir"],
+        "journal": "PET-CT Imaging Review",
+        "year": 2024
+      },
+      "publication3": {
+        "title": "Emerging Therapies in Radioiodine Treatment",
+        "authors": ["Selin Akgün", "Mustafa Kara"],
+        "journal": "Radioiodine Treatment Journal",
+        "year": 2025
+      },
+      "TIBBİ İLGİ ALANLARI": {
+        "Nükleer Görüntüleme": true,
+        "PET-CT": true,
+        "Radyoterapi": true,
+        "Thyroid Hastalıkları": true,
+        "Kanser Tanısı": true,
+        "Kemik Taraması": true
+      }
+    }
+  }
+]
